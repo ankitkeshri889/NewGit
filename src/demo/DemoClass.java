@@ -16,6 +16,9 @@ public class DemoClass {
 		demo.age = 24;
 		
 		System.out.println(demo.email +" "+demo.age);
+		
+		// 
+		System.out.println("Thanks for adding the details ...");
 	}
 
 }
