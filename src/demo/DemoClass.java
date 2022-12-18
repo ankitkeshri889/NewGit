@@ -21,6 +21,10 @@ public class DemoClass {
 		System.out.println("Thanks for adding the details ...");
 		System.out.println();
 		System.out.println("Hey ");
+		
+		// 
+		System.out.println("New Git develop bramch added");
+		System.out.println("Master branch is safe now");
 	}
 
 }
